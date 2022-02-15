@@ -1,0 +1,2 @@
+# cdn-resource
+这个仓库主要用来存储一些静态资源，并借助jsdelivr作为cdn加速加速资源访问的速度
